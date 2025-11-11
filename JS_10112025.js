@@ -5,3 +5,4 @@ const a= function(n){
 }
 
 a(5);
+console.log("master")
